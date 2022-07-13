@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T03:39:37.226Z" agent="5.0 (X11; CrOS x86_64 14816.99.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WACOvZrLglqwG-uWCMf2" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T06:06:19.789Z" agent="5.0 (X11; CrOS x86_64 14816.99.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="K951BdPIjgLpMBLdoo-S" version="20.0.4" type="github" pages="2">
   <diagram name="トップページ" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="855" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -71,6 +71,17 @@
           <mxGeometry y="1" width="80" height="40" relative="1" as="geometry">
             <mxPoint x="100" y="-60" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pXRLfhnp3ETeWJ7Q1RKo" name="処理の流れ">
+    <mxGraphModel dx="855" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L-i3x477iqGWOWjQPJy6-15" value="デキゴトを投稿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
