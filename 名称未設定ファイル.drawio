@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T03:21:01.626Z" agent="5.0 (X11; CrOS x86_64 14816.99.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CGk7DER3Aj5Y4_o3JfCE" version="20.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-21T03:34:04.942Z" agent="5.0 (X11; CrOS x86_64 14816.99.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4MpFIUvH4SLaeMCQt1DL" version="20.1.2" type="github" pages="10">
   <diagram name="トップページ" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1315" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -19,10 +19,10 @@
         <mxCell id="PeiIn9M8t8szSwq4ZLXM-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#333333;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="200" y="600" width="840" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="PeiIn9M8t8szSwq4ZLXM-6" value="なぜなにkoto-koto" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=20;fontSize=16;fontStyle=1;fontColor=#333333;" parent="PeiIn9M8t8szSwq4ZLXM-5" vertex="1">
+        <mxCell id="PeiIn9M8t8szSwq4ZLXM-6" value="なぜなに「koto-koto」" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=20;fontSize=16;fontStyle=1;fontColor=#333333;" parent="PeiIn9M8t8szSwq4ZLXM-5" vertex="1">
           <mxGeometry width="840" height="40" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PeiIn9M8t8szSwq4ZLXM-7" value="&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;何をするサイトなの？&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当サイトは日々のデキゴトを記録し、イイコト（良かった事、楽しかった事、嬉しかった事など）を振り返ったり、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ヤナコト（悪かった事、悲しかった事、辛かった事など）に対してどの様に対処するのかを考える事で、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・自己肯定感の向上&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ストレスに対する対処の仕方を考え日々のストレスを軽減する&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;といったセルフケアのお手伝いが出来れば良いな、という趣旨で&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;制作しております。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;" style="perimeter=none;html=1;whiteSpace=wrap;fillColor=none;strokeColor=none;resizeWidth=1;verticalAlign=top;align=left;spacing=20;spacingTop=-10;fontSize=14;fontColor=#333333;" parent="PeiIn9M8t8szSwq4ZLXM-5" vertex="1">
+        <mxCell id="PeiIn9M8t8szSwq4ZLXM-7" value="&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;何をするサイトなの？&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当サイトは日々のデキゴトを記録し、イイコト（良かった事、楽しかった事、嬉しかった事など）を振り返ったり、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ヤナコト（悪かった事、悲しかった事、辛かった事など）に対してどの様に対処するのか考える事で、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・自己肯定感の向上&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ストレスに対する対処の仕方を考え日々のストレスを軽減する&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;といった、セルフケアのお手伝いが出来れば良いな、という趣旨で&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;制作しております。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;" style="perimeter=none;html=1;whiteSpace=wrap;fillColor=none;strokeColor=none;resizeWidth=1;verticalAlign=top;align=left;spacing=20;spacingTop=-10;fontSize=14;fontColor=#333333;" parent="PeiIn9M8t8szSwq4ZLXM-5" vertex="1">
           <mxGeometry width="840" height="240" relative="1" as="geometry">
             <mxPoint y="40" as="offset" />
           </mxGeometry>
@@ -33,7 +33,7 @@
         <mxCell id="PeiIn9M8t8szSwq4ZLXM-9" value="使い方" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=20;fontSize=16;fontStyle=1;fontColor=#333333;" parent="PeiIn9M8t8szSwq4ZLXM-8" vertex="1">
           <mxGeometry width="840" height="40" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PeiIn9M8t8szSwq4ZLXM-10" value="&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;1.深く考えずにメモ感覚でデキゴトを記録する&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2.空いた時間に記録したデキゴトを見返す&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3.イイコトだったかヤナコトだったか振り分ける&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4.今日のイイコトベスト3を決める（就寝前に行うと効果的）&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;5.ヤナコトに対する対処法を考える（ストレスに対する対処法を持つ事でストレス軽減に繋げる）&lt;/div&gt;&lt;/font&gt;" style="perimeter=none;html=1;whiteSpace=wrap;fillColor=none;strokeColor=none;resizeWidth=1;verticalAlign=top;align=left;spacing=20;spacingTop=-10;fontSize=14;fontColor=#333333;" parent="PeiIn9M8t8szSwq4ZLXM-8" vertex="1">
+        <mxCell id="PeiIn9M8t8szSwq4ZLXM-10" value="&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;1.深く考えずにメモ感覚でデキゴトを記録する&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2.空いた時間に記録したデキゴトを見返す&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3.イイコトだったかヤナコトだったか振り分ける&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4.今日のイイコトベスト3を決める（就寝前に行うと良い効果）&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;5.ヤナコトに対する対処法を考える（ストレスに対する対処法を持つ事でストレス軽減に繋げる）&lt;/div&gt;&lt;/font&gt;" style="perimeter=none;html=1;whiteSpace=wrap;fillColor=none;strokeColor=none;resizeWidth=1;verticalAlign=top;align=left;spacing=20;spacingTop=-10;fontSize=14;fontColor=#333333;" parent="PeiIn9M8t8szSwq4ZLXM-8" vertex="1">
           <mxGeometry width="840" height="200" relative="1" as="geometry">
             <mxPoint y="40" as="offset" />
           </mxGeometry>
@@ -42,7 +42,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ログイン画面" id="IyIyz3bDHEMdQTdk86Bc">
-    <mxGraphModel dx="1315" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="3sdvHIgCzACQ9vRSst_c-0" style=";html=1;" />
         <mxCell id="3sdvHIgCzACQ9vRSst_c-1" style=";html=1;" parent="3sdvHIgCzACQ9vRSst_c-0" />
@@ -79,11 +79,24 @@
         <mxCell id="3sdvHIgCzACQ9vRSst_c-36" value="キャンセル" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CC0000;strokeWidth=1;fillColor=default;fontColor=#CC0000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;" parent="3sdvHIgCzACQ9vRSst_c-1" vertex="1">
           <mxGeometry x="320" y="440" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="e3qdbyPWI8jGHpwwd9aW-0" value="説明レイヤー" parent="3sdvHIgCzACQ9vRSst_c-0" />
+        <mxCell id="aONFyOKtmZp9idS8E-49-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="e3qdbyPWI8jGHpwwd9aW-0">
+          <mxGeometry x="190" y="420" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aONFyOKtmZp9idS8E-49-1" value="ログイン後は&lt;br&gt;デキゴト記録画面へ遷移" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;opacity=50;strokeColor=#6c8ebf;" vertex="1" parent="e3qdbyPWI8jGHpwwd9aW-0">
+          <mxGeometry x="260" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aONFyOKtmZp9idS8E-49-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="e3qdbyPWI8jGHpwwd9aW-0" source="aONFyOKtmZp9idS8E-49-1" target="aONFyOKtmZp9idS8E-49-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="480" as="sourcePoint" />
+            <mxPoint x="380" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="新規登録画面" id="tGjgozocICuwaAWNoyD8">
-    <mxGraphModel dx="1315" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="QNJgambJxZK-blFfVYaC-0" style=";html=1;" />
         <mxCell id="QNJgambJxZK-blFfVYaC-1" style=";html=1;" parent="QNJgambJxZK-blFfVYaC-0" />
@@ -194,7 +207,7 @@
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUeECAOyYp8_hJvo2f58-4" value="--" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;fillColor=default;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;strokeColor=#333333;fontColor=#999999;" parent="QNJgambJxZK-blFfVYaC-1" vertex="1">
+        <mxCell id="LUeECAOyYp8_hJvo2f58-4" value="01" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;fillColor=default;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;strokeColor=#333333;fontColor=#999999;" parent="QNJgambJxZK-blFfVYaC-1" vertex="1">
           <mxGeometry x="520" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LUeECAOyYp8_hJvo2f58-5" value="" style="shape=triangle;direction=south;fillColor=#333333;strokeColor=none;perimeter=none;fontSize=12;" parent="LUeECAOyYp8_hJvo2f58-4" vertex="1">
@@ -247,20 +260,21 @@
             <mxPoint x="640" y="681" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUeECAOyYp8_hJvo2f58-6" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#333333;fontSize=12;" parent="QNJgambJxZK-blFfVYaC-1" vertex="1">
-          <mxGeometry x="360" y="483" width="170" height="110" as="geometry" />
+        <mxCell id="xq842x80r9bH-qvj9pIo-0" value="プルダウンメニュー" parent="QNJgambJxZK-blFfVYaC-0" />
+        <mxCell id="LUeECAOyYp8_hJvo2f58-6" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#333333;fontSize=12;" parent="xq842x80r9bH-qvj9pIo-0" vertex="1">
+          <mxGeometry x="200" y="483" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LUeECAOyYp8_hJvo2f58-7" value="1" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;fontColor=#333333;" parent="LUeECAOyYp8_hJvo2f58-6" vertex="1">
+        <mxCell id="LUeECAOyYp8_hJvo2f58-7" value="2022" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;fontColor=#333333;" parent="LUeECAOyYp8_hJvo2f58-6" vertex="1">
           <mxGeometry width="170" height="30" relative="1" as="geometry">
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUeECAOyYp8_hJvo2f58-8" value="2" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;fontColor=#333333;" parent="LUeECAOyYp8_hJvo2f58-6" vertex="1">
+        <mxCell id="LUeECAOyYp8_hJvo2f58-8" value="2021" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;fontColor=#333333;" parent="LUeECAOyYp8_hJvo2f58-6" vertex="1">
           <mxGeometry width="170" height="30" relative="1" as="geometry">
             <mxPoint y="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUeECAOyYp8_hJvo2f58-9" value="3" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;fontColor=#333333;" parent="LUeECAOyYp8_hJvo2f58-6" vertex="1">
+        <mxCell id="LUeECAOyYp8_hJvo2f58-9" value="2020" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;fontColor=#333333;" parent="LUeECAOyYp8_hJvo2f58-6" vertex="1">
           <mxGeometry width="170" height="30" relative="1" as="geometry">
             <mxPoint y="70" as="offset" />
           </mxGeometry>
@@ -269,7 +283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="デキゴト記録画面" id="VTI0qsTmsYr-QPDh5fVm">
-    <mxGraphModel dx="1006" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="UqwuPy2NaGpcHP0cw01l-0" style=";html=1;" />
         <mxCell id="UqwuPy2NaGpcHP0cw01l-1" style=";html=1;" parent="UqwuPy2NaGpcHP0cw01l-0" />
@@ -400,7 +414,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="デキゴト表示" id="2wikEQZP2XsOVR2rV2Ol">
-    <mxGraphModel dx="855" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="P0RSI7a7xZ8-UIwF5gun-0" style=";html=1;" />
         <mxCell id="P0RSI7a7xZ8-UIwF5gun-1" style=";html=1;" parent="P0RSI7a7xZ8-UIwF5gun-0" />
@@ -660,7 +674,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="イイコト表示" id="AN1ttIKFnGFyWuMTWFEN">
-    <mxGraphModel dx="855" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="c41gTqPgsZQYi39s1KI9-0" style=";html=1;" />
         <mxCell id="c41gTqPgsZQYi39s1KI9-1" style=";html=1;" parent="c41gTqPgsZQYi39s1KI9-0" />
@@ -831,7 +845,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ヤナコト表示" id="9aJBdlPY8Nj36xca2b0x">
-    <mxGraphModel dx="855" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="Zus84LSVbVeEzREJa8uT-0" style=";html=1;" />
         <mxCell id="Zus84LSVbVeEzREJa8uT-1" style=";html=1;" parent="Zus84LSVbVeEzREJa8uT-0" />
@@ -1032,7 +1046,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="削除済みデキゴト表示" id="c1XmJ2Hr8H0cr_OLQ3fR">
-    <mxGraphModel dx="855" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="zoBi3BG_2nsoCYK83ECL-0" style=";html=1;" />
         <mxCell id="zoBi3BG_2nsoCYK83ECL-1" style=";html=1;" parent="zoBi3BG_2nsoCYK83ECL-0" />
@@ -1202,7 +1216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="対処法の入力" id="IarLhUWfPBDgguRuifx5">
-    <mxGraphModel dx="658" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="n8mnttvccJBK-Uk2wuWp-0" style=";html=1;" />
         <mxCell id="n8mnttvccJBK-Uk2wuWp-1" style=";html=1;" parent="n8mnttvccJBK-Uk2wuWp-0" />
@@ -1309,7 +1323,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="エラー画面" id="mUR2Nt6kvgjKdv16RD5o">
-    <mxGraphModel dx="1315" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="pAVDxPn5WLqNMWwrZs3U-0" style=";html=1;" />
         <mxCell id="pAVDxPn5WLqNMWwrZs3U-1" style=";html=1;" parent="pAVDxPn5WLqNMWwrZs3U-0" />
